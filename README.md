@@ -7,7 +7,8 @@ This repository contains a **sales database** with multiple datasets and a **Pow
   - `customers.csv` – Customer details  
   - `products.csv` – Product information  
   - `markets.csv` – Market segments  
-  - `dates.csv` – Date-related data  
+  - `dates.csv` – Date-related data
+  - `transactions.csv` – Sales transactions 
 - **📊 Power BI Dashboard** (`Sales_Dashboard.pbix`) – Interactive visualization of sales insights  
 - **🖼️ Screenshots** – Sample images of the dashboard  
 
